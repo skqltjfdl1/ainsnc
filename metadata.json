@@ -1,0 +1,7 @@
+{
+  "name": "아인외벽솔루션 (Ain Exterior Solution)",
+  "description": "외벽 실리콘 시공, 창틀 코킹, 외벽 방수 및 보수 전문 업체 아인외벽솔루션입니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
